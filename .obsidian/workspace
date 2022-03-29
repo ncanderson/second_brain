@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "ea488101c8728a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f38b91d59133f75",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fab64a1a9b10ce13",
+    "type": "split",
+    "children": [
+      {
+        "id": "167a1537c8358bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632d4be9ea0c7e4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c31797d585fdf7c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#dungeons_and_dragons",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b29ac6cea0616bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f627633f2db14ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef0e88a20c2ca37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "57e24a1cd18b7a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f38b91d59133f75",
+  "lastOpenFiles": [
+    "Zettelkasten/Oskora catalog of days.md",
+    "Zettelkasten/Council of Mala.md",
+    "Zettelkasten/jungle river travel.md",
+    "Zettelkasten/jungle plot points.md",
+    "Zettelkasten/Horseshoe Falls.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Supplicants of the Weeping Mother.md",
+    "Zettelkasten/Star-touched.md",
+    "Zettelkasten/Horseshoe River.md",
+    "Zettelkasten/Griss' Family.md"
+  ]
+}
