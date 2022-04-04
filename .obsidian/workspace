@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Zettelkasten/view serial data on USB ports.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/view serial data on USB ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "992724bb41142b67",
   "lastOpenFiles": [
+    "Zettelkasten/view serial data on USB ports.md",
+    "Zettelkasten/connecting to bosch thermal camera.md",
+    "Zettelkasten/Hipheoth and Mithrolan.md",
     "README.md",
     "Zettelkasten/zettelkasten meta.md",
     "Zettelkasten/markdown-cheat-sheet.md",
     "Zettelkasten/docker.md",
     "Templates/Map of Content.md",
     "Zettelkasten/Oskora.md",
-    "Templates/Region - D&D.md",
-    "Templates/NPC - D&D.md",
-    "Templates/Monster - D&D.md",
-    "Templates/Core Zettel Idea.md"
+    "Templates/Region - D&D.md"
   ]
 }
