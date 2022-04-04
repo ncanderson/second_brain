@@ -1,9 +1,9 @@
-202203312309
+202203312300
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Sityan
+**Description:** A native of [[Eukarth]].
 
 **Personality:** 
 
@@ -23,6 +23,6 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Voice:** 
 
-
+![[Sityan.png]]
 
 # References

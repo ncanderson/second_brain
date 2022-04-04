@@ -1,9 +1,9 @@
-202203312309
+202203312246
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Y'Ghatan
+**Description:** Lich
 
 **Personality:** 
 
@@ -19,10 +19,10 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Family:** 
 
-**Associations:** 
+**Associations:** [[Sheiteh-Yah]], [[Mentu-em-Asim]]
 
 **Voice:** 
 
-
+![[Y'Ghatan.jpg]]
 
 # References

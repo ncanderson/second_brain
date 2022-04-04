@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "354dec49f6695834",
+        "id": "992724bb41142b67",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dungeons_and_dragons",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -93,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "354dec49f6695834",
+  "active": "992724bb41142b67",
   "lastOpenFiles": [
-    "Zettelkasten/Yelusawa.md",
-    "Zettelkasten/Völä.md",
-    "Zettelkasten/Violent Beck.md",
-    "Zettelkasten/Sillefteste, City.md",
-    "Zettelkasten/Sillefteste.md",
-    "Zettelkasten/Roashim.md",
-    "Zettelkasten/Quon Xuâni.md",
-    "Zettelkasten/Pleka.md",
-    "Zettelkasten/Papaahti.md",
-    "Zettelkasten/Mount Sigungux.md"
+    "README.md",
+    "Zettelkasten/zettelkasten meta.md",
+    "Zettelkasten/markdown-cheat-sheet.md",
+    "Zettelkasten/docker.md",
+    "Templates/Map of Content.md",
+    "Zettelkasten/Oskora.md",
+    "Templates/Region - D&D.md",
+    "Templates/NPC - D&D.md",
+    "Templates/Monster - D&D.md",
+    "Templates/Core Zettel Idea.md"
   ]
 }

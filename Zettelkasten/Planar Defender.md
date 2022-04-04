@@ -1,9 +1,9 @@
-202203312309
+202203312252
 Status: #idea
-Tags: #dungeons_and_dragons #lore #NPC 
+Tags: #dungeons_and_dragons #lore
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Planar Defender
+**Description:** Massive constructs created to defend [[Questan]] from foes beyond the border of the universe.
 
 **Personality:** 
 

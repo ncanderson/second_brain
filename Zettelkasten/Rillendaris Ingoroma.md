@@ -1,9 +1,9 @@
-202203312309
+202203312238
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Rillendaris Ingoroma
+**Description:** High priest of [[Vorphos]], the Queen of the Realm of Life. Leader of the majority faith in [[Questan]].
 
 **Personality:** 
 
@@ -23,6 +23,6 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Voice:** 
 
-
+![[Rillendaris.jpg]]
 
 # References

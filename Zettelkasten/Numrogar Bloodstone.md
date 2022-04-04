@@ -1,9 +1,9 @@
-202203312309
+202203312238
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Numrogar Bloodstone
+**Description:** Dwarf of [[New Gerngarum]]. Companion of [[Crivnux]]
 
 **Personality:** 
 
@@ -19,10 +19,10 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Family:** 
 
-**Associations:** 
+**Associations:** [[New Gerngarum]]
 
 **Voice:** 
 
-
+![[Numrogar Bloodstone.jpg]]
 
 # References

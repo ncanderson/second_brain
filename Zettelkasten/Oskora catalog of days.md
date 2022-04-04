@@ -6,7 +6,8 @@ Tags:
 Days:  
 1: [[Cheva]]  
 2: fort, meet [[The Heresiarch]]
-3: quasit, battle  
+3: quasit, battle. as the heroes begin to recover from the events they just witnessed, a fresh horror emerges. The ground begins to shake. Many of those on the ground stand up and begin streaming back to [[Gadliegh]] and [[Curlisbrooke]], and many who were slain begin to stand, new Zombies at [[Cafatia Thefrinal|Cafatia's]]| beck and call. The [[half-orc]] steppe army begins fanning out into the country-side. The ground begins to crack, and obsidian spires begin rising. The largest rises from where Cafatia was, with more thrusting up around. They are all adorned with dwarven runes.
+
 4: farm, running through the night TOWER  
 5: [[Orcustus]]  
 6: second day towards [[Old Gerngarum]]
@@ -55,7 +56,7 @@ Days:
 105. [[Ogothorn]], battle near [[Cennen]]
 106. [[Hold of Life]], talking to the goddesses half orcs arrive at [[Gadliegh]]  
 107. Rod travel to [[Questan]], meet with half orcs  
-108. Battle with [[Belat-sunat]], rod out to [[Hold of Death]]
+108. Battle with [[Belatsunat]], rod out to [[Hold of Death]]
 109. Convo with [[Magor the Shovel]], depart with [[Tierney]]  
 110. Battle [[Y'Ghatan]] 24 of [[Antarol]] ([[Saka]] departs)  
 149. arrive on [[Dashnar]] full ![🌕](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f315/32.png)  
@@ -68,7 +69,7 @@ Days:
 158. [[Hold of Giants]] in accident, then to the [[Unaligned Hold of the Spear|Spear]], then they were gods  
 159. Morning after negotiations  
 160. Bunch of bouncing around, kraken battle, get the [[Gnash's Harp]], fight [[Dragonaut]]  
-161. Encounter [[Dagger Horses]] on the steppe  
+161. Encounter [[Dagger Horse]] on the steppe  
 162-163. Get to the keep, travel to battle the [[The Beast Mother ]]
 164-165. Leaving the underground  
 165-167. River barge to [[Springwyn]]  

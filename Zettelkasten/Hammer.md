@@ -1,9 +1,9 @@
-202203312309
+202203312250
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Hammer
+**Description:** Native of [[Drommenacht]]. Companion of [[Tongs]]. Working to free [[Drommenacht]] from [[Jaliki]] rule.
 
 **Personality:** 
 

@@ -1,9 +1,9 @@
-202203312309
+202203312240
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Thazastr Goldtowers
+**Description:** [[Goldtower]] dwarf.
 
 **Personality:** 
 
@@ -15,14 +15,14 @@ Tags: #dungeons_and_dragons #lore #NPC
 **Flaws:** 
 **Bonds:** 
 
-**Occupation:** 
+**Occupation:** Merchant
 
 **Family:** 
 
-**Associations:** 
+**Associations:** [[New Gerngarum]]
 
 **Voice:** 
 
-
+![[Thazastr Goldtowers.jpg]]
 
 # References

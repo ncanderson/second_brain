@@ -1,4 +1,8 @@
-# Markdown Cheat Sheet
+202204041024
+Status: #idea
+Tags: #obsidian #programming #meta
+
+# markdown-cheat-sheet
 Clicking on a md element in this page will reveal the markdown, as the source/preview modes in Obsidian are not per file apparently.
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
@@ -118,3 +122,7 @@ H~2~O
 ### Superscript
 
 X^2^
+
+
+# References
+[The Markdown Guide](https://www.markdownguide.org)

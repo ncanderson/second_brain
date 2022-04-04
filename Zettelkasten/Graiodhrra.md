@@ -1,9 +1,9 @@
-202203312309
+202203312230
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Graiodhrra
+**Description:** 
 
 **Personality:** 
 
@@ -13,16 +13,14 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Ideals:** 
 **Flaws:** 
-**Bonds:** 
+**Bonds:**
 
-**Occupation:** 
-
-**Family:** 
-
-**Associations:** 
+**Occupation:**
 
 **Voice:** 
 
+**Associations:**
 
+![[Graiodhrra.jpg]]
 
 # References

@@ -1,9 +1,9 @@
-202203312309
+202203312235
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Kishor
+**Description:** Ancient ally of [[Y’Ghatan]]. 
 
 **Personality:** 
 
@@ -19,10 +19,10 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Family:** 
 
-**Associations:** 
+**Associations:** [[Sheiteh-Yah]]
 
 **Voice:** 
 
-
+![[Kishor 2.jpg]]
 
 # References

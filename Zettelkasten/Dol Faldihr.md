@@ -1,9 +1,9 @@
-202203312309
+202203312255
 Status: #idea
-Tags: #dungeons_and_dragons #lore #NPC 
+Tags: #dungeons_and_dragons #lore #geography 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Dol Faldihr
+**Description:** Capital of [[New Gerngarum]].
 
 **Personality:** 
 

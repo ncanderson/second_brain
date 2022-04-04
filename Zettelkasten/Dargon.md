@@ -1,9 +1,9 @@
-202203312309
+202203312247
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Dargon
+**Description:** A nomadic warrior of the [[Jaliki]]. Accompanied [[The Dianes]] for a time.
 
 **Personality:** 
 
@@ -19,7 +19,7 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Family:** 
 
-**Associations:** 
+**Associations:** [[Jaliki]]
 
 **Voice:** 
 

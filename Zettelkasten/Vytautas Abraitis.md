@@ -1,9 +1,9 @@
-202203312309
+202203312245
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# Vytautas Abraitis
+**Description:** Oldest child of [[Jurgis Abraitis]].
 
 **Personality:** 
 
@@ -17,12 +17,13 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **Occupation:** 
 
-**Family:** 
+**Family:** Son of [[Jurgis Abraitis]]
+Brother to [[Vygintas Abraitis]] and [[Marandel Abraitis]].
 
 **Associations:** 
 
 **Voice:** 
 
-
+![[Vytautas Abraitis.jpg]]
 
 # References

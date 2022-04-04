@@ -1,9 +1,9 @@
-202203312309
+{{date:YYYYMMDD}}{{time:HHmm}}
 Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
-# Althea Dondro
-**Description:** Mother of [[Darowon Dondro]]
+# {{title}}
+**Description:** 
 
 **Personality:** 
 
