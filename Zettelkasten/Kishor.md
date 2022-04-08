@@ -3,7 +3,7 @@ Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
 # Kishor
-**Description:** Ancient ally of [[Y’Ghatan]]. 
+**Description:** Ancient ally of [[Y'Ghatan]]. 
 
 **Personality:** 
 

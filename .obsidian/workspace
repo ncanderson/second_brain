@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "992724bb41142b67",
+        "id": "e36de1b4a91dab2d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/view serial data on USB ports.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/view serial data on USB ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +90,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "992724bb41142b67",
+  "active": "e36de1b4a91dab2d",
   "lastOpenFiles": [
-    "Zettelkasten/view serial data on USB ports.md",
-    "Zettelkasten/connecting to bosch thermal camera.md",
+    "Zettelkasten/Y’Ghatan.md",
+    "Zettelkasten/Kishor.md",
     "Zettelkasten/Hipheoth and Mithrolan.md",
-    "README.md",
-    "Zettelkasten/zettelkasten meta.md",
-    "Zettelkasten/markdown-cheat-sheet.md",
-    "Zettelkasten/docker.md",
-    "Templates/Map of Content.md",
-    "Zettelkasten/Oskora.md",
-    "Templates/Region - D&D.md"
+    "Zettelkasten/Y'Ghatan.md",
+    "Zettelkasten/The Rope.md",
+    "Zettelkasten/NPC.md",
+    "Zettelkasten/Oskora catalog of days.md",
+    "Zettelkasten/Marandel Abraitis.md",
+    "Zettelkasten/Ice.md",
+    "Zettelkasten/The Heresiarch.md"
   ]
 }

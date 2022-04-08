@@ -3,7 +3,7 @@ Status: #idea
 Tags: #dungeons_and_dragons #lore #NPC 
 
 # Cafatia Thefrinal
-**Description:** 
+**Description:** Sometimes know as 'The Scourge of the Steppes'.
 
 **Personality:** 
 

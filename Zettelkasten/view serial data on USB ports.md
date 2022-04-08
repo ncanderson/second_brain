@@ -8,7 +8,7 @@ list [[USB device|USB devices]]
 
 `cat` a port to see what's connected, sometimes it's not adequate
 
-`cat` won't alwasy work. Use screen:
+`cat` won't alwasy work. Use screen if so:
 `screen /dev/ttyUSB(...) [baud] (38400?)`
 to kill `ctrl+a`, `shift+k` (a chord)
 

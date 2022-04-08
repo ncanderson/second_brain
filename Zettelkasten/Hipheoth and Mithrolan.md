@@ -3,7 +3,7 @@ Status: #idea
 Tags: #dungeons_and_dragons #lore #writing
 
 # Hipheoth and Mithrolan
-[[Y’Ghatan]] gate-breaker girt with silver
+[[Y'Ghatan]] gate-breaker girt with silver
 
 Wrought from nothing a mighty nation.
 
@@ -35,7 +35,7 @@ Crying soldiers and anguished kin.
 
 No few offers had come to his ears,
 
-But the fresh taste of [[Y’Ghatan|Y’Ghatan’s]] begging
+But the fresh taste of [[Y'Ghatan|Y'Ghatan’s]] begging
 
 Caught the attentions of the elder god.
 
@@ -45,7 +45,7 @@ Of [[Mentu-em-Asim|Mentu-em-Asim’s]]   mortuary halls,
 
 Of late the greatest tribute levied
 
-Came from [[Y’Ghatan|Y’Ghatan’s]] wars of conquest.
+Came from [[Y'Ghatan|Y'Ghatan’s]] wars of conquest.
 
 His tearful prayers and grasping fingers
 
@@ -75,7 +75,7 @@ Gate-breaker replied with sanguine glee:
 
   
 
-[[Y’Ghatan]] life-stealer   extinguished his own people.
+[[Y'Ghatan]] life-stealer   extinguished his own people.
 
   
 
@@ -95,7 +95,7 @@ Great lords all, lunging charioteers
 
 Foremost among them [[Belatsunat]].
 
-Always whispering [[Y’Ghatan|Y’Ghatan’s]] advisor,
+Always whispering [[Y'Ghatan|Y'Ghatan’s]] advisor,
 
 Her King’s proxy on the killing fields
 
@@ -155,7 +155,7 @@ Bore knives and cudgels killing tools
 
 Had also heard the summons and answered
 
-Often standing at [[Y’Ghatan|Y’Ghatan’s]] side
+Often standing at [[Y'Ghatan|Y'Ghatan’s]] side
 
 Speaking calm where Belatsunat
 
@@ -181,7 +181,7 @@ His blood as hot as Belatsunat’s.
 
 A vassal king he’d carved a realm
 
-Fast against [[Y’Ghatan|Y’Ghatan’s]] borders
+Fast against [[Y'Ghatan|Y'Ghatan’s]] borders
 
 When Gate-breaker began his wars
 
@@ -209,7 +209,7 @@ Had also heard the summons and answered.
 
 With grave heart he heard the words
 
-Whispered by [[Y’Ghatan]] when he needed solace,
+Whispered by [[Y'Ghatan]] when he needed solace,
 
 Performed the rituals  of righteous faith,
 
@@ -243,7 +243,7 @@ Kept bound and muzzled and starved for meat
 
 That slavering avatar would be unleashed
 
-When [[Y’Ghatan]] required maximum violence.
+When [[Y'Ghatan]] required maximum violence.
 
   
 
@@ -301,7 +301,7 @@ Had also heard the summons and answered.
 
   
 
-Mustered and ready, [[Y’Ghatan]] begins his war
+Mustered and ready, [[Y'Ghatan]] begins his war
 
   
 
@@ -391,7 +391,7 @@ We must enlist mighty allies
 
 If we hope to hold the line.
 
-[[Y’Ghatan]] gate-breaker and [[Mentu-em-Asim]]
+[[Y'Ghatan]] gate-breaker and [[Mentu-em-Asim]]
 
 Have together wrought tremendous ruin:
 
@@ -496,7 +496,7 @@ Morning dawned a day of slaughter
 
 The time for words was finally over
 
-The battle is joined, between the armies of the gods and [[Y’Ghatan|Y’Ghatan’s]] undead legions. Lasting nearly 50 years, at last, [[Y’Ghatan|Y’Ghatan’s]] army’s are spent and he is put to flight. The gods are approaching the King’s throne, when they learn of another attack from an unexpected direction.
+The battle is joined, between the armies of the gods and [[Y'Ghatan|Y'Ghatan’s]] undead legions. Lasting nearly 50 years, at last, [[Y'Ghatan|Y'Ghatan’s]] army’s are spent and he is put to flight. The gods are approaching the King’s throne, when they learn of another attack from an unexpected direction.
 
 The Hold of Life was hard pressed
 
@@ -506,7 +506,7 @@ Three remained the renew the offensive
 
   
 
-Winning the final battle and putting [[Y’Ghatan|Y’Ghatan’s]] army to rout, [[Hipheoth]], [[Mithrolan]] and [[Magor the Shovel|Magor]] reach the doors of [[Mentu-em-Asim|Mentu-em-Asim’s]] hall.
+Winning the final battle and putting [[Y'Ghatan|Y'Ghatan’s]] army to rout, [[Hipheoth]], [[Mithrolan]] and [[Magor the Shovel|Magor]] reach the doors of [[Mentu-em-Asim|Mentu-em-Asim’s]] hall.
 
 [[Magor the Shovel|Magor's]] blow   with mighty fist
 
@@ -752,7 +752,7 @@ To avenge the fallen and finish her task.
 
 Shortly she arrived where her army was camped,
 
-And [[Y’Ghatan]] remained his allies removed
+And [[Y'Ghatan]] remained his allies removed
 
 Cordoned by her soldiers in deep caves.
 
@@ -776,7 +776,7 @@ They called to the Soldier her captains around her:
 
 And answer your summons at this final hour
 
-[[Y’Ghatan]] is trapped we three have trapped him
+[[Y'Ghatan]] is trapped we three have trapped him
 
 Encased his form in towering obsidian
 
@@ -828,7 +828,7 @@ Kelrias was right the Holds had collided,
 
 Every realm meeting at one littoral, 
 
-These dripping grottos [[Y’Ghatan|Y’Ghatan’s]] spell-home.
+These dripping grottos [[Y'Ghatan|Y'Ghatan’s]] spell-home.
 
 She steeled herself and soldiered on
 
@@ -840,7 +840,7 @@ Her eyes could see power pulsing sickly
 
 From a perfect cylinder of polished stone,
 
-Locking away [[Y’Ghatan|Y’Ghatan’s]] [[phylactery]]
+Locking away [[Y'Ghatan|Y'Ghatan’s]] [[phylactery]]
 
 His mortal contract with [[Mentu-em-Asim]].
 
@@ -898,7 +898,7 @@ She bade them found a mighty fortress
 
 To watch that prison: a weighty task 
 
-For [[Y’Ghatan|Y’Ghatan’s]] own magery was undiminished
+For [[Y'Ghatan|Y'Ghatan’s]] own magery was undiminished
 
 And [[Hipheoth]] feared he’d be free again.
 

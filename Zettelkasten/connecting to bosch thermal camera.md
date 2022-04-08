@@ -13,7 +13,7 @@ something going on with the video encoder output for the video camera streams
 
 - go to config > camera > encoder regions
 - there was thermal data showing up, all indicates that the thermal camera was working
-- encoder streams
+- encoder streams, tab 2, click 'set'
 - video 2 tab
 
 
