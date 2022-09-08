@@ -5,7 +5,7 @@ Tags: #dungeons_and_dragons #lore #NPC
 # Thaminan
 A would-be [[vampire]] from [[Baisteirano]]
 
-**Description:** This slender man stands about 5'2". He wears a perfectly clean shirt and pair of pants. His silver hair is cut short. His fair skin shows little sign of his aristocratic breeding. Journeying with his servant to [[Eukarth]], he hopes to pursue rumors of vampires in the deep jungles. Until then, he sleeps in a coffin of earth, and refuses to be outside in the sunlight. Culturally [[Ta Hio]].
+**Description:** This slender man stands about 5'2". He wears a perfectly clean shirt and pair of pants. His silver hair is cut short. His fair skin shows little sign of his aristocratic breeding. Journeying with his servant to [[Eukarth]], he hopes to pursue rumors of vampires in the deep jungles. Until then, he sleeps in a coffin of earth, and refuses to be outside in the sunlight. Culturally [[Ta Hio Language Group]].
 
 **Personality:** He is quite rude, and likes to deride his opponents skill and shout insults at them. He does not trust anyone and sleeps with one eye open.
 

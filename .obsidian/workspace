@@ -7,8 +7,12 @@
         "id": "e36de1b4a91dab2d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/dog care.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#obsidian",
+                "query": "screen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/dog care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +100,15 @@
   },
   "active": "e36de1b4a91dab2d",
   "lastOpenFiles": [
-    "Zettelkasten/Y’Ghatan.md",
-    "Zettelkasten/Kishor.md",
-    "Zettelkasten/Hipheoth and Mithrolan.md",
+    "Zettelkasten/child therapists.md",
+    "Zettelkasten/multi-threading.md",
+    "Zettelkasten/Aboleth.md",
+    "Templates/Region - D&D.md",
     "Zettelkasten/Y'Ghatan.md",
-    "Zettelkasten/The Rope.md",
-    "Zettelkasten/NPC.md",
-    "Zettelkasten/Oskora catalog of days.md",
-    "Zettelkasten/Marandel Abraitis.md",
-    "Zettelkasten/Ice.md",
-    "Zettelkasten/The Heresiarch.md"
+    "Zettelkasten/Hipheoth and Mithrolan.md",
+    "Zettelkasten/Dinem.md",
+    "Zettelkasten/Eukarth.md",
+    "Zettelkasten/Griss.md",
+    "Files/Delenon9.jpg"
   ]
 }
