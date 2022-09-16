@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e36de1b4a91dab2d",
+        "id": "873c26f82f0d500c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/dog care.md",
+            "file": "Zettelkasten/house details.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "screen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/dog care.md",
+                "file": "Zettelkasten/house details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e36de1b4a91dab2d",
+  "active": "873c26f82f0d500c",
   "lastOpenFiles": [
+    "Zettelkasten/dog care.md",
     "Zettelkasten/child therapists.md",
     "Zettelkasten/multi-threading.md",
     "Zettelkasten/Aboleth.md",
@@ -108,7 +109,6 @@
     "Zettelkasten/Hipheoth and Mithrolan.md",
     "Zettelkasten/Dinem.md",
     "Zettelkasten/Eukarth.md",
-    "Zettelkasten/Griss.md",
-    "Files/Delenon9.jpg"
+    "Zettelkasten/Griss.md"
   ]
 }
