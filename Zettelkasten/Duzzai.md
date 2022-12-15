@@ -15,11 +15,11 @@ Tags: #dungeons_and_dragons #lore #NPC
 **Flaws:** 
 **Bonds:** 
 
-**Occupation:** 
+**Occupation:** A guard for the [[House of Ras Pash]]
 
 **Family:** 
 
-**Associations:** 
+**Associations:** Often drinks at the [[Ras Pash Tavern]]
 
 **Voice:** 
 

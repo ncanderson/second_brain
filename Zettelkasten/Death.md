@@ -5,10 +5,10 @@ Tags: #dungeons_and_dragons #lore #religion
 # Death
 Realm most associated with death as the inverse of life - not explicitly evil. The realm holds the souls of the dead, who wander in a grey eternity. Newly dead often hold the ambitions they held in life, and it's not unusual for tyrants to arise, leading armies of those soul. Eventually everyone succumbs to the crushing same-ness of the realm.
 
-Liradel, the King of Death, has recently gone missing. This disappearance is likely to have far-reaching and unforeseeable effects.
+[[Liradel Indris]], the King of Death, has recently gone missing. This disappearance is likely to have far-reaching and unforeseeable effects.
 
 Death - The Chill, The Grey, The Long Dark
-- King: [[Liradel Irindis]]
+- King: [[Liradel Indris]]
 - Magi: [[Terinwe Ladonon]]
 - Herald: [[Magor The Shovel]]
 - Spinner: [[Aragenet]] 

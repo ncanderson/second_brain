@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "873c26f82f0d500c",
+        "id": "62c8062728339f1f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/house details.md",
+            "file": "Templates/Religion - D&D.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "od worthy of worship but acknowledge that there might be other gods out",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/house details.md",
+                "file": "Templates/Religion - D&D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +97,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "873c26f82f0d500c",
+  "active": "62c8062728339f1f",
   "lastOpenFiles": [
-    "Zettelkasten/dog care.md",
-    "Zettelkasten/child therapists.md",
-    "Zettelkasten/multi-threading.md",
-    "Zettelkasten/Aboleth.md",
-    "Templates/Region - D&D.md",
-    "Zettelkasten/Y'Ghatan.md",
-    "Zettelkasten/Hipheoth and Mithrolan.md",
-    "Zettelkasten/Dinem.md",
-    "Zettelkasten/Eukarth.md",
-    "Zettelkasten/Griss.md"
+    "Zettelkasten/Communion of the Eye.md",
+    "Templates/Religion - D&D.md",
+    "Zettelkasten/Paragons of the Obscure.md",
+    "Templates/Core Zettel Idea.md",
+    "Zettelkasten/post cataclysm religions.md",
+    "Zettelkasten/Griss' Family.md",
+    "Zettelkasten/The Obelisk.md",
+    "Zettelkasten/Aehelis Shava Xilonodel.md",
+    "Zettelkasten/Unaligned.md",
+    "Zettelkasten/The Spear.md"
   ]
 }

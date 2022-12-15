@@ -7,6 +7,14 @@ For tags, use a link, but don't actually create the note for the tag contents. T
 
 [[Map of Content]] (MOC) - the emergent pattern that develops around tags.
 
+Add a checkbox:
+- New line
+- `-` to start an unordered list
+- type `- [ ]`
+- enter will continue the check box
+
+
 
 # References
 [helpful youtube video](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+

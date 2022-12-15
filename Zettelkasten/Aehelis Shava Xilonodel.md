@@ -9,7 +9,7 @@ Aehelis grew up mostly alone, but travelled with mother to nearby cities for tra
 
 Mother used to tell Aehelis of rape & details she could remember. A red haired large man w/ insignia depicting a blue dog with golden wings standing upon white flowers. ([[Pef Nokorsk]])
 
-When Aehelis was 12 she travelled with her mother to a distant city and began to live in the outskirts. Mother's mental heath, which was unstable to begin with, deteriorated more and she drowned herself. 
+When Aehelis was 12 she travelled with her mother to a distant city and began to live in the outskirts. Mother's mental health, which was unstable to begin with, deteriorated more and she drowned herself. 
 
 Aehelis moved into the city [[Merrowmeadow]]. She was soon taken under the wing of a half elf named [[Peren]]. He taught her much and by age 16 she was his lover. Even though she flourished in the city life, she used to go to the woods to camp for a few weeks every year as a way to stay connected with her mother who never really loved Aehelis but whom Aehelis was devoed to anyways. Aehelis know her mother's unhappiness and death was her rapist father's fault.
 

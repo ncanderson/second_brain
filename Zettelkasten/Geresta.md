@@ -15,9 +15,8 @@ A hopelessly romantic [[Bard]]
 
 **Ideals:** Disciplined., Fighting. **Flaws:** Disease, Fearful, Antagonistic., Secretive, Impulsive. **Bonds:** Job, Immigrant, Immigrant. **Occupation:** Bard, poet
 
-**Voice:** pre-pubescent
-
 **Associations:** [[The Blue Faces]]
 
+![[geresta.png]]
 
 # References

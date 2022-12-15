@@ -14,5 +14,15 @@
       ],
       "key": "ArrowLeft"
     }
-  ]
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "workspace:new-tab": []
 }

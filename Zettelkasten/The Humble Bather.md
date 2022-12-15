@@ -1,6 +1,6 @@
 202203291122
 Status: #idea
-Tags: #Eukarth #religion #dungeons_and_dragons #lore 
+Tags: #Eukarth #geography  #dungeons_and_dragons #lore 
 
 # The Humble Bather
-A religion of [[Eukarth]].
+An inn along the [[Dockway]] of [[Ond Sâliya]].

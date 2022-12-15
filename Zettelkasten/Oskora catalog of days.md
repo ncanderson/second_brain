@@ -80,9 +80,9 @@ Days:
 169-170. River travel on the [[River Styx]]
 171. Morning in the temolenin [[Hollows Heart]]
 172. Talk to [[Geryon]], pyramid shifts places  
-173. Get [[Liradel Indriss]], return to plane  
+173. Get [[Liradel Indris]], return to plane  
 174. Travel to [[Halls of Sounding Repose]]
-175. Get first item (?) Wake [[Liradel Indriss]]
+175. Get first item (?) Wake [[Liradel Indris]]
 176. Get cloak, battle [[The Rustling Beast]]
 177. Get [[Brain Stem of the Elder Worm]]
 178.  

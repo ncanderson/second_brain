@@ -1,8 +1,10 @@
 202204041031
 Status: #idea
-Tags: #bosch #camera
+Tags: #bosch #camera #work 
 
 # connecting to bosch thermal camera
+For [[Bosch MIC 9000i]] camera.
+
 camera thermal cam not showing thermal image?
 - go to dashboard
 - view active connections - kb value indicated there was visual output but no thermal output on video 2

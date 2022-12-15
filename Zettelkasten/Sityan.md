@@ -9,13 +9,13 @@ Tags: #dungeons_and_dragons #lore #NPC
 
 **History:** 
 
-**Motivation:** 
+**Motivation:** Has a sick child, and would do anything for her.
 
 **Ideals:** 
 **Flaws:** 
-**Bonds:** 
+**Bonds:** Family
 
-**Occupation:** 
+**Occupation:** A house servant at the [[House of Ras Pash]]
 
 **Family:** 
 

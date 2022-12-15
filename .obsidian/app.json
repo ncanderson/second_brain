@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettelkasten",
   "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
