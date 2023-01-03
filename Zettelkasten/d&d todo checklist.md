@@ -10,6 +10,6 @@ Tags: #dungeons_and_dragons #Eukarth #adventures #dm
 - Create Several NPC's to make the game more NPC driven
 - Create a method/checklist for creating an NPC
 	- Instead of big blocks of text, create a grid that has a name, race/culture, and ideals, flaws and bonds for the character. Big walls of text are hard to work in mid-game.
-	- 
 - Devise a list of the [[DM Thoughts]] that I want to pursue for this campaign
 - Use of architecture to reinforce religious beliefs
+- Map of [[Blue Faces]] library

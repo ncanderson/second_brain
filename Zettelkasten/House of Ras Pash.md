@@ -17,6 +17,7 @@ A noble house in [[Ond Sâliya]]. Came to [[Eukarth]] from [[Sheiteh-Yah]].
 - [[Jahike]]
 
 ## Activities
+Currently this house of under the influence of a supposed [[The Necromancer|necromancer]], who has earned the ire of [[The Blue Faces]]. 
 
 ## Holdings
 - [[Ras Pash Tavern]]

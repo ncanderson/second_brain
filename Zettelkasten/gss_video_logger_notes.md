@@ -3,7 +3,7 @@ Status: #idea
 Tags: #work #programming #video-streaming 
 
 # gss_video_logger_notes
-
+See also [[gss_video_logger_update_plan]]
 ## Dev Notes
 Run this:
 ```bash
@@ -22,6 +22,9 @@ qlcm_type_ui logger_cmd_t 3 VIDEO_LOGGER_CMD
 ```
 Sending `1` will start logging, sending `2` will end it.
 
+## Plan of Action
+[[gss_video_logger_update_plan]]
+
 ## Benchmarking
 ### Pre-updates
 Something we're working with is determining who is grabbing the streams and when. When benchmarking the loggers, close workspace, run `lcm-spy` to watch `gss_system_monitor`. This should mean that the loggers have the streams and we are measuring system usage appropriately.
@@ -36,29 +39,25 @@ Something we're working with is determining who is grabbing the streams and when
 - Start logging with all three
 
 #### Logging Notes
-- Loggers off towards the beginning
-- Turned on around `204`
-- Workspace closed around `240`
-- Re-opened around `276`, loggers turned off. 
-- Between about `240` and `270`, and then after `300`, workspace is closed. The difference appears to be about 2% at most for the instances of `gss_video_logger`.
-- Workspace re-opened around `450`, all loggers re-started. 
-- After about `480`, workspace is closed and all loggers are on. ![[Pasted image 20221214141738.png]] 
+##### Questions to Answer:
+- [x] What is the CPU impact for workspace when changing what stream it grabs?
+	- Don't care, since we're not delivering workspace. We'll give F5 whatever they want.
+- [ ] What is the CPU impact from the loggers for the different stream encoder profiles? Testing with the visual logger only
+	- MJPEG: 5-10%
+	- H.264: Not an option since we want to stream H.265
+	- H.265: 15-25 CPU% Or maybe mid to high 40's?
+- [x] We can connect to H.265 using `h26x=5`. Is that option only available when the web gui has H.265 checked? 
+	- Correct
 
-##### Disable Extra Stream
-Look at the impact of this compared to removing the duplicate stream from OPENFLS.
-- Around `100`, turned off workspace after removing UDP URL from OPENFLS
-- Around `200`, re-opened workspace. 
-- Around `360`, closed workspace
-- Around `420`, opened workspace, turned off loggers, closed workspace
-![[Pasted image 20221214143451.png]]
-- Why the hell is workspace now redlining the CPU?
-- Actually this test is likely to be bogus since the loggers were not actually grabbing the video streams
 
 ##### HTOP Review (main logger only)
 - When workspace is not running, the main video logger is using consistently mid-to-high 40% CPU
+	- But sometimes it's around 15-25%
+	- Sometimes it's pushing 80
+	- So I don't really know.
 - With workspace running, main video logger is using high-50 to low-60%
-- Commanding logging spikes usage to 95-120% range
-
+- Commanding logging spikes usage by 20-40% plus
+- But also I think it's making a new thread, so maybe the net increase is whatever that thread shows.
 
 ### Post-updates
 Make code changes, then repeat this procedure
@@ -80,6 +79,8 @@ If we move `Open()` to after we command to start recording, it will take 2-30 se
 
 Need to put something in to confirm that the stream is good during runtime
 `Open()` early, leave open, check the stream periodically
+
+Application argument to control the decoding behavior - `--decode_on_startup`  determines if we `Start()` on app startup
 
 ### ToDO
 - Bugfix - check the stream and re-open if it's bad

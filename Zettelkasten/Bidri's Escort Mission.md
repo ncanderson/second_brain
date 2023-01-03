@@ -41,11 +41,23 @@ Thrall of [[Kaz'gadoth]], a captain under the thrall of [[Kaz'gadoth]], who ulti
 [[Klash]] - a troll who is under the thrall of [[Kaz'gadoth]]. Often falls into a rage, but won't leave the area of the bridge.
 
 #### Minor Villain II
+Some goblins:
+[[Ar'ganur  ]]
+[[Tizanog]]  
+[[Gorgran]]  
+[[Borkoth]]  
+[[Vorgrokon]]  
+[[Bilrillen]]  
+[[Irkomon]]  
+[[Gongron]]  
+[[Drozgalus]]  
+[[Zigrathag]]
 
 # Ally	
 #### Ally
 
 #### Neutral/Potential Ally
+
 
 # Encounter
 #### Goblin Ambush

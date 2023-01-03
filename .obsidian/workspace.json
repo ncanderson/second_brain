@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e0e631c62c417d6",
+            "id": "f5a3e9500ed3edae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/project_ramona_notes.md",
+                "file": "Zettelkasten/The River Snake.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a7dc2b39a93150f",
+            "id": "44974f58be0a027e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Templates/Core Zettel Idea.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/PXL_20221029_180446041.jpg"
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/project_ramona_notes.md",
+                "file": "Zettelkasten/The River Snake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +115,27 @@
     "direction": "horizontal",
     "width": 490.5
   },
-  "active": "8e0e631c62c417d6",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f5a3e9500ed3edae",
   "lastOpenFiles": [
-    "Zettelkasten/docker.md",
-    "Zettelkasten/Kaz'gadoth.md",
-    "Zettelkasten/Bidri's Escort Mission.md",
-    "Zettelkasten/The Sad Wolves.md",
-    "Zettelkasten/eukarth adventures.md",
-    "Zettelkasten/d&d todo checklist.md",
-    "Zettelkasten/digital video.md",
-    "Zettelkasten/connecting to bosch thermal camera.md",
-    "Zettelkasten/Bosch MIC 9000i.md",
-    "Zettelkasten/gss_video_logger_notes.md"
+    "Zettelkasten/Daishan Nah'ruk.md",
+    "Zettelkasten/Haqwesa.md",
+    "Zettelkasten/Nash Sheia.md",
+    "Zettelkasten/Witnesses of the Savage Tabernacle.md",
+    "Zettelkasten/The Sharpshooters.md",
+    "Zettelkasten/Akromi.md",
+    "Templates/Faction - D&D.md",
+    "Zettelkasten/The Hidden Bones.md",
+    "Zettelkasten/The Rotten Horse.md",
+    "Zettelkasten/Oclan.md"
   ]
 }

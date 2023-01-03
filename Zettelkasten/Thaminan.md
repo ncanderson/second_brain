@@ -11,13 +11,15 @@ A would-be [[vampire]] from [[Baisteirano]]
 
 **History:** Through the years after Thaminan was born, his mother became increasingly distant from his family, instead choosing to pursue power in the south. Thaminan’s mother didn't care for him much, and the feeling was mutual. He remains aloof and afraid to be himself due to all the ideals others have placed upon him.
 
+Died on the journey to [[Eukarth]]. His remains were given over to [[Haqwesa]]. 
+
 **Motivation:** Sabotage a competitor; and to get a good night's sleep
 
 **Ideals:** Disciplined, Fighting **Flaws:** Disease, Fearful, Antagonistic., Secretive, Impulsive., Antagonistic, Insomniac, Shy. **Bonds:** Immigrant, Attractive **Occupation:** None
 
 **Voice:** Spits words with contempt
 
-**Associations:** [[Witnesses of the Savages Tabernacle]]
+**Associations:** [[Witnesses of the Savage Tabernacle]]
 
 
 # References

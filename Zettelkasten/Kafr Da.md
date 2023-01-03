@@ -13,7 +13,10 @@ Pilot of the [[Tryphon]]
 
 **Motivation:** She feels threatened by others.
 
-**Ideals:** Disciplined. **Flaws:** Disease, Fearful, Antagonistic. **Bonds:** Job, Immigrant, In love, Rich, Military. **Occupation:** Pilot
+**Ideals:** Disciplined. 
+**Flaws:** Disease, Fearful, Antagonistic. 
+**Bonds:** Job, Immigrant, In love, Rich, Military. 
+**Occupation:** Pilot
 
 **Voice:** Hollow voice
 

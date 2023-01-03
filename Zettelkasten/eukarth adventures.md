@@ -15,6 +15,7 @@ Tags: #Eukarth #dungeons_and_dragons #adventures
 - Escorting a cart for [[Bidri]], being attacked by goblins
 
 **Job Board - General Tasks**
+- Make a list of plants that might be used for dyes, to provide to [[Henk]] for [[Essa Des]] to find.
 - Rough up a spiritualist who is really a necromancer, at the behest of the [[Blue Faces]].
  - A gang is roughing up [[Kafr Da]], they are part of the gang next door  
 That gang attempts to extort [[The Sad Wolves]].

@@ -2,9 +2,20 @@
 Status: #idea
 Tags: #lore #dungeons_and_dragons 
 
-# songs
-Oh The Grey -- [[Noam]]
+# Songs
+### Written by [[Noam]]
+- Oh The Grey
+- The Orphan Mabs
+	- 'All the lonely people, where do they all come from'
 
+### Written by [[Stefan the Renowned]]
+- The Wheelwright's Curse
+- Weekend at [[Veirshuli|Veirshuli's]]
+- The Squatter's Waltz
+- Tug on your guilt strings
+- Ode to the Bardyguard
+
+### Unattributed
 Forgotten Realms
 Eldritch Horrors
 Dragonsfire

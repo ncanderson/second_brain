@@ -15,7 +15,7 @@ Servant of [[Thaminan]]
 
 **Flaws**: Antagonistic, Fearful, Racist. **Occupation:** Servant
 
-**Associations:** [[Witnesses of the Savages Tabernacle]]
+**Associations:** [[Witnesses of the Savage Tabernacle]]
 
 
 # References

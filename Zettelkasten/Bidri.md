@@ -8,5 +8,9 @@ Elf, currently associated with [[The Hidden Bones]]. Has plans in motion to usur
 ![[bidri.png]]
 
 ![[bidri_3.png]]
+### Associates
+- [[Guthan]]
+- [[Orga]] 
+
 # References
 
