@@ -4,12 +4,14 @@ Tags: #dungeons_and_dragons #lore #faction #organization
 
 # {{title}}
 **Type**: 
-**Motivation**: 
-**History**:
+**Description**: 
+**History**: 
 
 **Influence**: 
 **Reputation**: 
 **Age**: 
+
+**Activities**:
 
 **Leadership**: 
 **Size**: 
@@ -43,6 +45,9 @@ Tags: #dungeons_and_dragons #lore #faction #organization
 **Guards**: 
 **Dungeon**: 
 **Traps**: 
+
+### Other Locations
+- 
 
 ### Joining
 **Requirement**: 

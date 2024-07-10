@@ -8,6 +8,8 @@ Tags: #dungeons_and_dragons #lore #geography #tavern
 
 **Description**: Smoky, poorly lit. Occasional bands, though the clientele generally uninterested.
 
+There is a ruined building about half a block away - the roof is caved in. 
+
 **Innkeeper**: [[Talon]]. [[Oclan]], his assistant.
 
 **Menu**:

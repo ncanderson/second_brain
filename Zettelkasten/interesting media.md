@@ -4,20 +4,32 @@ Tags: #media #books #movies #music #programming #projects
 
 # interesting media
 ## Projects
-- [Codeyourfirstgame.com](http://codeyourfirstgame.com/)Movies  
-
+See [[Personal Projects]]
 ## Movies
-- Beyond the pines  
-- Tenet  
-- The deep house  
-- JoJo rabbit  
-- Reign of fire  
-- Raw  
-- Blame!  
+- Hostile
+- Coffee Table
+- Gentlemen Broncos 
+- Beyond the pines
+- Tenet
+- the lighthouse
+- The deep house
+- Raw (french)
 - The medium (Thai)  
-- Threads  
+- Threads
 - Come and see  
-- Russian ark
+- Russian ark (russian)
+- Splice 
+- Legend
+- The Gentleman
+- Portrait of God
+- Possum horror movie
+- Session 9
+- You won't be alone
+- Heavy trip (finnish)
+- Mother!
+
+## Shows
+- Calls
 
 ## Books  
 - Negative space yeager  
@@ -33,10 +45,12 @@ Tags: #media #books #movies #music #programming #projects
 - Gentlemen bastards Lynch  
 - Ryria revelations Sullivan  
 - The king in yellow
+- Infinite jest
 
 ## Games  
 - Hardcoded  
 - Summertime saga
+- Silk Bulb Test
 
 ## Music  
 - Explosicum  
@@ -50,6 +64,11 @@ Tags: #media #books #movies #music #programming #projects
 - Jack stauber oh klahoma  
 - Amigo the devil  
 - Sinkhole noisia
+- Lew Stone - My Woman
+- Another Love Song (slow electro version)
+- Lingua Ignola - Saved!
+- Built to Spill
+- Oliver Tree & Robin Schulz - Miss You
 
 ### Vinyl to Buy
 - Ruins of Beverast - Exuvia  

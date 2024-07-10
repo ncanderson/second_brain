@@ -5,7 +5,7 @@ Tags: #dungeons_and_dragons #lore #NPC
 # Idderg
 **Description:** 
 
-**Personality:** 
+**Personality:** Fond of gambling, especially [[Pig fucker]].
 
 **History:** 
 
@@ -20,6 +20,7 @@ Tags: #dungeons_and_dragons #lore #NPC
 **Family:** 
 
 **Associations:** A lieutenant in [[The Hidden Bones]]. 
+Play cards with [[Kostas]]
 
 **Voice:** 
 

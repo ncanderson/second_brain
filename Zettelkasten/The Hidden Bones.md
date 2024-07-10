@@ -15,8 +15,14 @@ There is an operative within the organization that is dissatisfied with [[Cure T
 Has cultural links to [[Narssâq]], thought those are currently tenuous at best.
 
 **Influence**: There is a very close relationship between this organization and the government of the [[Obraria Influence|Obrarian area]]. 
-**Reputation**: 
+**Reputation**: Feared
 **Age**: 
+
+**Activities**:
+- Smuggling
+- Arson and violence to support commecial ventures, both their own and by contract
+- Buying and selling of debt for people
+- Disappearing people into the [[Ond Sâliya Pits]]
 
 **Leadership**: 
 **Size**: 

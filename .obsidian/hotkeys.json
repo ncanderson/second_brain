@@ -15,14 +15,22 @@
       "key": "ArrowLeft"
     }
   ],
-  "insert-current-date": [
+  "insert-current-date": [],
+  "editor:delete-paragraph": [],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:toggle-spellcheck": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "D"
+      "key": "S"
     }
-  ],
-  "editor:delete-paragraph": [],
-  "workspace:new-tab": []
+  ]
 }

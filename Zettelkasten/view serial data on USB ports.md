@@ -1,8 +1,8 @@
 202204041036
 Status: #idea
-Tags: #programming #linux #terminal
+Tags: #programming #linux #terminal #serial
 
-# view serial data on USB ports
+# view [[serial]] data on USB ports
 `ls /dev/ttyUSB*`
 list [[USB device|USB devices]]
 

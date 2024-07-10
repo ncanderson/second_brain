@@ -4,6 +4,15 @@ Tags: #Eukarth #dungeons_and_dragons #adventures
 
 # eukarth adventures
 ### Landing Spot for Adventure Ideas, spin them out into a new page when ready
+
+what do people think when people learn that [[Geresta]] met [[Idderg]] but didn't actually?
+
+#### PC Conflicts
+- Force [[Noam]] and [[Essa Des]] to get over the prep school stuff. 
+
+#### Ancient Aliens
+The temples and tombs of the Yuan-ti, deep in the jungles, house artifacts of great power and ancientry. lol it's 80's technology
+
 #### Wolf in Pain
 - A wolf/spirit is luring young people from the path through the local forest. The PCs are asked to deal with the problem.
 	- On deeper examination, the townspeople that are taken are deeply unhappy, or living with poverty

@@ -7,6 +7,12 @@ Tags: #lore #dungeons_and_dragons
 - Oh The Grey
 - The Orphan Mabs
 	- 'All the lonely people, where do they all come from'
+- The Ballad of Gorch
+- Sanctuary
+	- Packs a punch
+	- Weight around his neck, weight in his hands
+	- For [[Bidri]]
+- Gooey, globby fruits
 
 ### Written by [[Stefan the Renowned]]
 - The Wheelwright's Curse

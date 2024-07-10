@@ -1,18 +1,31 @@
 202212082028
 Status: #idea
-Tags: 
+Tags: #player_characters #dungeons_and_dragons #lore 
+
+Pact of the chain
++1 spell known
+2nd level spells
+Archfey
 
 # Zook Dargell Zumbleduck
-Gnome, lost looking. Has an appearence of one out of place.
+Gnome, lost looking. Has an appearance of one out of place.
 Trying to answer 'The Question'
 
 - There is a library
 - Colleague died (murdered) because they got too close to something
 - Looking for a book about the shattering written by former
 
+Found a spider-like magical component that was taken from the dehumidifier at [[The Blue Faces]] library.
+
 ### Projects
 - Defense of the [[Salty Badger]], especially something that [[Skeent]] and [[Mags]] can use
 	- Made some progress with a 15
+
+### Associations
+- [[Tifafyx Thundercord]], who was murdered
+
+### Patron 
+Zook's patron is a fey creature named [[Ail'uned]]
 
 So he’s aesthetically and personality wise a very real combination of these two fellas…  
 Dobby and zei from Avatar last Airbender  

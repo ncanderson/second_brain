@@ -8,6 +8,8 @@ Tags: #dungeons_and_dragons #lore #faction #organization
 **Type**: Work camp in the jungle northwest of [[Ond Sâliya]]
 **Motivation**: 
 
+[[Urabani]] - overseer of the [[Lumber Camp]]
+
 **Influence**: 
 **Reputation**: Feared 
 **Age**: 

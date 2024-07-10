@@ -22,3 +22,7 @@ Following the battle where the champions managed to prevent the total destructio
 General ideas to make religion a fun part of the world
 - Crazy cult rituals with music and costumes
 - Know songs, poems and hymns
+- Religion that worships the stars, calls the zodiac holds, and believes that the gods have ascended to the starts and still rule there.
+
+## Astrology
+See also [[post cataclysm calendar]]

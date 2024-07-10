@@ -1,9 +1,11 @@
 202301022244
 Status: #idea
-Tags: #dungeons_and_dragons #lore #geography #Eukarth 
+Tags: #dungeons_and_dragons #lore #geography #Eukarth #shop #store
 
 # Frint's General
 General store, occasionally deals in used books. Owned and operated by [[Frint Degoth]].
+
+
 
 
 # References

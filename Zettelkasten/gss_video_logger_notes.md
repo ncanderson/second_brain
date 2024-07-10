@@ -22,6 +22,26 @@ qlcm_type_ui logger_cmd_t 3 VIDEO_LOGGER_CMD
 ```
 Sending `1` will start logging, sending `2` will end it.
 
+## Debugging
+1/9/23
+There is something going on, where the logging doesn't always start when commanded (as expected). Something maybe about not being able to access the streams?
+- Replaying logs sometimes crashes workspace. Maybe if not all logs are present?
+- Radar not always logging. Appears to be running:
+```
+[h264 @ 0x558604ab1480] Invalid level prefix
+[h264 @ 0x558604ab1480] error while decoding MB 10 45
+[h264 @ 0x558604ab1480] concealing 284 DC, 284 AC, 284 MV errors in I frame
+```
+- Can log radar from local machine? 
+- need to create a logging folder if it doesn't already exist
+- Can't command to start while the connection is opening
+- Maybe an issue with the validation state? Seeing lots of messages
+- Radar gets stuck in a loop of 'Ending logging of ...', but it does do a little bit? Actually this happens when PCS is sending a signal indicating that logging isn't ok.
+- Figure out how to get out of the loop with PCS sending the 'stop' signal
+- For some reason, the radar stream is not opening correctly.
+- Maybe it can't reacquire the stream after its closed?
+- 
+
 ## Plan of Action
 [[gss_video_logger_update_plan]]
 

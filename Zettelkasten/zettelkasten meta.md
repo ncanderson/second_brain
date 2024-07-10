@@ -13,6 +13,8 @@ Add a checkbox:
 - type `- [ ]`
 - enter will continue the check box
 
+See also [[upgrading obsidian]]
+
 
 
 # References

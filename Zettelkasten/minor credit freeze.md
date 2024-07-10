@@ -11,13 +11,10 @@ If you are a parent or guardian of a minor and would like to freeze their credit
 
 1.  A written request to place a “protected consumer freeze” on the named individual’s file
 2.  **AND** a copy of one piece of documentation that provides ‘sufficient proof of authority’ that you have authority to act on behalf of the minor or dependent such as:  
-    
     -   an order issued by a court of law
     -   a lawfully executed and valid power of attorney
     -   a document issued by a Federal, State, or local government agency in the United States showing proof of parentage, including a birth certificate
     -   with respect to a protected consumer who has been placed in a foster care setting, a written communication from a county welfare department or its agent or designee, or a county probation department or its agent or designee, certifying that the protected consumer is in a foster care setting under its jurisdiction.
-    
-      
     
 3.  **AND** information or a copy of documentation that provides ‘sufficient proof of identification’ that you are who you really are, and information or a copy of documentation that the minor/dependent is who they really are, such as:  
     -   a Social Security number or a copy of a Social Security card issued by the Social Security Administration
@@ -48,20 +45,14 @@ In order for us to find out if Experian's database contains credit information a
 -   A copy of your child's Social Security card
 
 Mail this form to:
-
-Experian
-
-PO Box 9554
-
-Allen, TX 75013
+> Experian
+> PO Box 9554
+> Allen, TX 75013
 
 Overnight Mail:
-
-Experian
-
-701 Experian Parkway
-
-Allen, TX 75013
+> Experian
+> 701 Experian Parkway
+> Allen, TX 75013
 
 Overnight mail cannot be delivered to a P.O. Box. There may be a fee associated with an overnight request.
 

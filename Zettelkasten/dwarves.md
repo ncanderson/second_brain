@@ -3,7 +3,9 @@ Status: #idea
 Tags: #dungeons_and_dragons #lore #races
 
 # dwarves
-**Description:** 
+**Description:** A long-lived race.
+
+Dwarves make few distinctions for gender.
 
 **History:** 
 

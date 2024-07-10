@@ -9,9 +9,9 @@ Make the Appimage file executable.
 
 There is a .desktop file in ~/.local/share/applications. Update the executed file for that shortcut.
 
-Move the Appimage to /bin
+Move the Appimage to /bin (have to do with `sudo`)
 
-When upgrading, ensure the `.desktop` file is pointing at the right version, as the appimage will likely have a different name when installed.1
+When upgrading, ensure the `.desktop` file is pointing at the right version, as the appimage will likely have a different name when installed.
 
 Should just work.
 
