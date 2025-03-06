@@ -1,0 +1,14 @@
+202204072249
+Status: #idea
+Tags: #lore #player_characters #dungeons_and_dragons #Oskora 
+
+# Tupac
+Son of [[Oskar]] and [[Helga]] of the [[Ungarth clan]]. Dwarf monk.
+
+From [[Ranra Hirca]].
+
+Spent time at [[Dashnar]], but was kicked out.
+
+Seeks revenge on [[Crivnux]].o
+
+# References

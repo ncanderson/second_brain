@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ab41141c192d757b","type":"text","text":"Married 1808 BTR","x":-120,"y":175,"width":240,"height":60},
+		{"id":"52bc73dc745221f4","type":"text","text":"[[Belat-Sunat]]","x":180,"y":175,"width":250,"height":60},
+		{"id":"bf163cf82778ec08","type":"text","text":"[[Tulâdang of Simit-Sil-Hak]]","x":-480,"y":175,"width":304,"height":60},
+		{"id":"4bd3da81876138ab","type":"text","text":"[[Nabat]]","x":-125,"y":320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"41d1de53fbd924b5","fromNode":"bf163cf82778ec08","fromSide":"right","toNode":"ab41141c192d757b","toSide":"left","fromEnd":"arrow"},
+		{"id":"9cd320052630e735","fromNode":"52bc73dc745221f4","fromSide":"left","toNode":"ab41141c192d757b","toSide":"right","fromEnd":"arrow"},
+		{"id":"20a433f202cc4970","fromNode":"ab41141c192d757b","fromSide":"bottom","toNode":"4bd3da81876138ab","toSide":"top"}
+	]
+}

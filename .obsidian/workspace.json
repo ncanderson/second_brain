@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "ea488101c8728a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bb074f1c114013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a416840ea9530f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Sheiteh-Yah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sheiteh-Yah"
+            }
+          },
+          {
+            "id": "69a3a5211ecacdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/unicode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unicode"
+            }
+          },
+          {
+            "id": "7c0cb4cd254d2e47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Sheiteh-Yah Language Group.canvas",
+                "viewState": {
+                  "x": -153.7833969058492,
+                  "y": 230.2126376326831,
+                  "zoom": -0.6219981916107074
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sheiteh-Yah Language Group"
+            }
+          },
+          {
+            "id": "cab202cbde8e16d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/The Matter of Sheiteh-Yah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Matter of Sheiteh-Yah"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fab64a1a9b10ce13",
+    "type": "split",
+    "children": [
+      {
+        "id": "167a1537c8358bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632d4be9ea0c7e4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0f3e853ccf18a33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c31797d585fdf7c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "debug",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b29ac6cea0616bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f627633f2db14ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef0e88a20c2ca37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/The Matter of Sheiteh-Yah.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Matter of Sheiteh-Yah"
+            }
+          },
+          {
+            "id": "57e24a1cd18b7a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c7bd6e1c6d490b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fdf7469310ce1884",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cab202cbde8e16d9",
+  "lastOpenFiles": [
+    "Zettelkasten/The Matter of Sheiteh-Yah.md",
+    "Zettelkasten/Sheiteh-Yah.md",
+    "Canvas/Sheiteh-Yah Language Group.canvas",
+    "Zettelkasten/Yaamicha.md",
+    "Zettelkasten/Sheiteh-Yah Language Group.md",
+    "Zettelkasten/Jut Language Family.md",
+    "Zettelkasten/Todell.md",
+    "Zettelkasten/Languages of Ancient Oskora.md",
+    "Zettelkasten/Erid.md",
+    "Zettelkasten/Âbran.md",
+    "Zettelkasten/Gora'in.md",
+    "Zettelkasten/unicode.md",
+    "Zettelkasten/Simit-sil-hak Language Group.md",
+    "2025-02-21.md",
+    "Zettelkasten/Ishkibalii.md",
+    "Zettelkasten/Y'Ghatan.md",
+    "Zettelkasten/Ur-Aptera.md",
+    "Files/Sheiteh-Yah-Simit-Sil-Hak dual monarchy.md",
+    "Zettelkasten/inkarnate.md",
+    "Files/Pasted image 20250221094644.png",
+    "Files/Pasted image 20250221094601.png",
+    "Files/Pasted image 20250221094545.png",
+    "2025-02-20.md",
+    "Files/Pasted image 20250220170627.png",
+    "Zettelkasten/Sen-duga Dynasty.md",
+    "Canvas/Family tree of Sen-duga dynasty.canvas",
+    "Zettelkasten/Talaranna Khur.md",
+    "Canvas/Family tree of Tulâdang of Simit-Sil-Hak.canvas",
+    "Canvas/Family tree of Armagdar dynasty.canvas",
+    "Canvas/Fjorra Language Group.canvas",
+    "Zettelkasten/Tulâdang of Simit-Sil-Hak.md",
+    "Zettelkasten/Hipheoth and Mithrolan.md",
+    "Zettelkasten/Ula of Darice.md",
+    "Zettelkasten/Fourth war between Sheiteh-Yah and Simit-Sil-Hak.md",
+    "Zettelkasten/pre cataclysm religions.md",
+    "Canvas/Simit-sil-hak Language Group.canvas",
+    "Files/western_oskora.jpg",
+    "Files/northern_oskora.jpg",
+    "Files/1737732566532-c500edb4-6eda-4d69-b99e-b6ff75dfe462.jpg",
+    "Files/1737732415505-5917abf8-77f2-460d-9df1-32afb84098b7.jpg",
+    "Files/1737732835199-ad192e85-233a-4278-b55a-70ca0aaef64d.jpg",
+    "Files/1737732801557-1e0ef44c-7d6e-4b50-a344-2638d238e3a3.jpg",
+    "Canvas/Abraitis-Orentus Family Tree.canvas",
+    "Canvas/Baisteirano Language Group.canvas",
+    "Canvas/Kylänieme Language Group.canvas",
+    "Canvas/Narssâq Language Group.canvas",
+    "Sheiteh-Yah",
+    "Canvas",
+    "Excalidraw",
+    "Files/Epsilon-Diamond-Switch-24000 User Manual.pdf",
+    "Files/log.txt",
+    "Files/Planar Defender no color.pdf",
+    "Files/Interviewing a Potenial Therapist.docx",
+    "Files/mio_opt_hwil_journalctl.txt"
+  ]
+}

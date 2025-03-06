@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"b62493db7dac218a","type":"text","text":"[[Simit-sil-hak Language Group]]","x":-162,"y":-348,"width":342,"height":60,"color":"5"},
+		{"id":"f5f35b6c396a6995","type":"text","text":"[[Gora'in]]","x":-650,"y":-80,"width":250,"height":60},
+		{"id":"4627a026250c8afb","type":"text","text":"[[Ashi]]","x":-650,"y":19,"width":250,"height":60},
+		{"id":"a762dacedd8fb7af","type":"text","text":"[[Hawâman]]","x":-355,"y":-80,"width":250,"height":60},
+		{"id":"a8b7a7ce6971db9e","type":"text","text":"[[Southern Simit-sil-hak]]","x":-144,"y":60,"width":307,"height":62},
+		{"id":"13d625f86038221a","type":"text","text":"[[Al Jarghi]]","x":-650,"y":122,"width":250,"height":60},
+		{"id":"3250ab7d72661716","type":"text","text":"[[Tsat Mu]]","x":-115,"y":182,"width":250,"height":50},
+		{"id":"e926c73f4e6cc163","type":"text","text":"[[Naykhud]]","x":-116,"y":285,"width":250,"height":60},
+		{"id":"a8e76d5c5b5b8e81","type":"text","text":"[[North-eastern Simit-sil-hak]]","x":260,"y":-70,"width":356,"height":50},
+		{"id":"f124d869e0356d10","type":"text","text":"[[Hüryee]]","x":180,"y":40,"width":250,"height":60},
+		{"id":"fb7334215f046fe4","type":"text","text":"[[Jaliki]]","x":180,"y":152,"width":250,"height":60},
+		{"id":"efa9cde33677f430","type":"text","text":"[[Askuzai]]","x":180,"y":263,"width":250,"height":60},
+		{"id":"032763199ffeaf58","type":"text","text":"[[Baziyah]]","x":486,"y":40,"width":250,"height":60},
+		{"id":"1471a32279051d73","type":"text","text":"[[Drommen]]","x":486,"y":147,"width":250,"height":60},
+		{"id":"b6cca3e70defc5bf","type":"text","text":"[[South-eastern Simit-sil-hak]]","x":793,"y":-70,"width":324,"height":50},
+		{"id":"c93372febd252787","type":"text","text":"[[Oirad]]","x":830,"y":32,"width":250,"height":55},
+		{"id":"259fe29e82f4de48","type":"text","text":"[[Alagh]]","x":830,"y":147,"width":250,"height":60},
+		{"id":"b553875723b80214","type":"text","text":"[[Western Simit-sil-hak]]","x":-501,"y":-200,"width":292,"height":60,"color":"5"},
+		{"id":"b8a27c8ccdd114c6","type":"text","text":"[[Eastern Simit-sil-hak]]","x":528,"y":-200,"width":302,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"3437b012136fc126","fromNode":"b62493db7dac218a","fromSide":"bottom","toNode":"b553875723b80214","toSide":"top"},
+		{"id":"cd0d89d78f94234e","fromNode":"b553875723b80214","fromSide":"bottom","toNode":"f5f35b6c396a6995","toSide":"top"},
+		{"id":"64368e5228c9176b","fromNode":"f5f35b6c396a6995","fromSide":"bottom","toNode":"4627a026250c8afb","toSide":"top"},
+		{"id":"85e71afe452b9249","fromNode":"4627a026250c8afb","fromSide":"bottom","toNode":"13d625f86038221a","toSide":"top"},
+		{"id":"830fa371873c843c","fromNode":"b553875723b80214","fromSide":"bottom","toNode":"a762dacedd8fb7af","toSide":"top"},
+		{"id":"610da799f816d891","fromNode":"b62493db7dac218a","fromSide":"bottom","toNode":"a8b7a7ce6971db9e","toSide":"top"},
+		{"id":"f8290840478bc7f7","fromNode":"b62493db7dac218a","fromSide":"bottom","toNode":"b8a27c8ccdd114c6","toSide":"top"},
+		{"id":"7f6d1fc8794f1ecd","fromNode":"b8a27c8ccdd114c6","fromSide":"bottom","toNode":"a8e76d5c5b5b8e81","toSide":"top"},
+		{"id":"5894bda51aae28b1","fromNode":"b8a27c8ccdd114c6","fromSide":"bottom","toNode":"b6cca3e70defc5bf","toSide":"top"},
+		{"id":"0e62c8d16e87a656","fromNode":"a8e76d5c5b5b8e81","fromSide":"bottom","toNode":"f124d869e0356d10","toSide":"top"},
+		{"id":"05f1ea24f2057795","fromNode":"f124d869e0356d10","fromSide":"bottom","toNode":"fb7334215f046fe4","toSide":"top"},
+		{"id":"03a58c6bb9999e13","fromNode":"fb7334215f046fe4","fromSide":"bottom","toNode":"efa9cde33677f430","toSide":"top"},
+		{"id":"0d74dd11c2c8c30c","fromNode":"a8e76d5c5b5b8e81","fromSide":"bottom","toNode":"032763199ffeaf58","toSide":"top"},
+		{"id":"a9088241a2a85187","fromNode":"032763199ffeaf58","fromSide":"bottom","toNode":"1471a32279051d73","toSide":"top"},
+		{"id":"455109651b952a0f","fromNode":"b6cca3e70defc5bf","fromSide":"bottom","toNode":"c93372febd252787","toSide":"top"},
+		{"id":"126f3f8ee84e6e85","fromNode":"c93372febd252787","fromSide":"bottom","toNode":"259fe29e82f4de48","toSide":"top"},
+		{"id":"0365baad0d97183f","fromNode":"a8b7a7ce6971db9e","fromSide":"bottom","toNode":"3250ab7d72661716","toSide":"top"},
+		{"id":"dc4322cc1609976b","fromNode":"3250ab7d72661716","fromSide":"bottom","toNode":"e926c73f4e6cc163","toSide":"top"}
+	]
+}
